@@ -25,7 +25,17 @@ public class DemoTest1 {
 		default:
 			 slogan = "Not Found";
 			 isSloganFound = false;
-	
+	    int x = 10;
+	     int y = 20;
+
+		if(x > y){
+			System.out.println("Greater");
+		}else{
+			System.out.println("Less");
+		}
+
+	// this is coming from github
+	// practing pulling
 		
 		
 		}
